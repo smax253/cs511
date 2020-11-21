@@ -28,7 +28,7 @@ public class Bakery implements Runnable {
             int breadLeft = availableBread.get(bread);
             if (breadLeft > 0) {
                 availableBread.put(bread, breadLeft - 1);
-                Thread.sleep(350);
+                Thread.sleep(125);
             } else {
                 System.out.println("No " + bread.toString() + " bread left! Restocking...");
                 // restock by preventing access to the bread stand for some time
@@ -55,7 +55,7 @@ public class Bakery implements Runnable {
             modifyValue.acquire();
             sales += value;
             modifyValue.release();
-            Thread.sleep(500);
+            Thread.sleep(200);
             cashiers.release();
         } catch (InterruptedException e) {
             e.printStackTrace();

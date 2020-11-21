@@ -1,0 +1,1018 @@
+Customer 918466905 has started shopping.
+Customer 1228704693 has started shopping.
+Customer 248912259 has started shopping.
+Customer 1278150006 has started shopping.
+Customer 1234859022 has started shopping.
+Customer 2089050552 has started shopping.
+Customer 494321637 has started shopping.
+Customer 945117949 has started shopping.
+Customer 1596757540 has started shopping.
+Customer 357296607 has started shopping.
+Customer 668839245 has started shopping.
+Customer 923522516 has started shopping.
+Customer 1878940071 has started shopping.
+Customer 1154028898 has started shopping.
+Customer 795627795 has started shopping.
+Customer 1454174751 has started shopping.
+Customer 1557879524 has started shopping.
+Customer 331984491 has started shopping.
+Customer 1945158241 has started shopping.
+Customer 2050934028 has started shopping.
+Customer 125557821 has started shopping.
+Customer 4967650 has started shopping.
+Customer 1258930662 has started shopping.
+Customer 1737193248 has started shopping.
+Customer 1706318363 has started shopping.
+Customer 398278489 has started shopping.
+Customer 1910095185 has started shopping.
+Customer 648350138 has started shopping.
+Customer 1515340217 has started shopping.
+Customer 133284692 has started shopping.
+Customer 1665724812 has started shopping.
+Customer 50693259 has started shopping.
+Customer 993711281 has started shopping.
+Customer 611975911 has started shopping.
+Customer 713998265 has started shopping.
+Customer 875002720 has started shopping.
+Customer 367811244 has started shopping.
+Customer 532695913 has started shopping.
+Customer 1099159550 has started shopping.
+Customer 820274334 has started shopping.
+Customer 952488926 has started shopping.
+Customer 957557164 has started shopping.
+Customer 1288256562 has started shopping.
+Customer 356378395 has started shopping.
+Customer 768719074 has started shopping.
+Customer 1571638242 has started shopping.
+Customer 1841610166 has started shopping.
+Customer 116034314 has started shopping.
+Customer 1697005940 has started shopping.
+Customer 1489304625 has started shopping.
+Customer 1228704693 has added bread RYE to their cart.
+Customer 918466905 has added bread WONDER to their cart.
+Customer 918466905 is checking out.
+Customer 248912259 has added bread SOURDOUGH to their cart.
+Customer 1228704693 is checking out.
+Customer 2089050552 has added bread WONDER to their cart.
+Customer 2089050552 is checking out.
+Customer 1278150006 has added bread SOURDOUGH to their cart.
+Customer 1234859022 has added bread RYE to their cart.
+Customer 1234859022 is checking out.
+Customer 494321637 has added bread SOURDOUGH to their cart.
+Customer 945117949 has added bread RYE to their cart.
+Customer 1596757540 has added bread WONDER to their cart.
+Customer 1228704693: shoppingCart=[RYE], shopTime=257, checkoutTime=509
+Customer 918466905: shoppingCart=[WONDER], shopTime=260, checkoutTime=509
+Customer 2046526641 has started shopping.
+Customer 1007411017 has started shopping.
+Customer 2089050552: shoppingCart=[WONDER], shopTime=508, checkoutTime=501
+Customer 1917030488 has started shopping.
+Customer 357296607 has added bread RYE to their cart.
+Customer 795627795 has added bread SOURDOUGH to their cart.
+Customer 1234859022: shoppingCart=[RYE], shopTime=508, checkoutTime=506
+Customer 1197314893 has started shopping.
+Customer 668839245 has added bread WONDER to their cart.
+Customer 923522516 has added bread RYE to their cart.
+Customer 1454174751 has added bread SOURDOUGH to their cart.
+Customer 1878940071 has added bread WONDER to their cart.
+Customer 1878940071 is checking out.
+Customer 1154028898 has added bread RYE to their cart.
+Customer 1557879524 has added bread SOURDOUGH to their cart.
+Customer 125557821 has added bread WONDER to their cart.
+Customer 125557821 is checking out.
+Customer 331984491 has added bread SOURDOUGH to their cart.
+Customer 2050934028 has added bread RYE to their cart.
+Customer 2050934028 is checking out.
+Customer 4967650 has added bread WONDER to their cart.
+Customer 1878940071: shoppingCart=[WONDER], shopTime=1293, checkoutTime=515
+Customer 1631169064 has started shopping.
+Customer 1706318363 has added bread RYE to their cart.
+Customer 1945158241 has added bread SOURDOUGH to their cart.
+Customer 1945158241 is checking out.
+Customer 1258930662 has added bread WONDER to their cart.
+Customer 125557821: shoppingCart=[WONDER], shopTime=1545, checkoutTime=515
+Customer 163324578 has started shopping.
+Customer 713998265 has added bread RYE to their cart.
+Customer 713998265 is checking out.
+Customer 2050934028: shoppingCart=[RYE], shopTime=1794, checkoutTime=513
+Customer 398278489 has added bread SOURDOUGH to their cart.
+Customer 1962484795 has started shopping.
+Customer 1737193248 has added bread WONDER to their cart.
+Customer 1737193248 is checking out.
+Customer 1910095185 has added bread SOURDOUGH to their cart.
+Customer 1945158241: shoppingCart=[SOURDOUGH], shopTime=2045, checkoutTime=514
+Customer 952488926 has added bread RYE to their cart.
+Customer 2100765295 has started shopping.
+Customer 1515340217 has added bread WONDER to their cart.
+Customer 713998265: shoppingCart=[RYE], shopTime=2298, checkoutTime=511
+Customer 608781464 has started shopping.
+Customer 648350138 has added bread SOURDOUGH to their cart.
+Customer 1737193248: shoppingCart=[WONDER], shopTime=2323, checkoutTime=501
+Customer 133284692 has added bread WONDER to their cart.
+Customer 133284692 is checking out.
+Customer 1288256562 has added bread RYE to their cart.
+Customer 1766622625 has started shopping.
+Customer 50693259 has added bread SOURDOUGH to their cart.
+Customer 50693259 is checking out.
+Customer 116034314 has added bread RYE to their cart.
+Customer 116034314 is checking out.
+Customer 1665724812 has added bread WONDER to their cart.
+Customer 1665724812 is checking out.
+Customer 133284692: shoppingCart=[WONDER], shopTime=2824, checkoutTime=512
+Customer 154549722 has started shopping.
+Customer 993711281 has added bread SOURDOUGH to their cart.
+Customer 1697005940 has added bread RYE to their cart.
+Customer 1697005940 is checking out.
+Customer 875002720 has added bread WONDER to their cart.
+Customer 50693259: shoppingCart=[SOURDOUGH], shopTime=3088, checkoutTime=501
+Customer 230849179 has started shopping.
+Customer 1099159550 has added bread WONDER to their cart.
+Customer 945117949 has added bread RYE to their cart.
+Customer 611975911 has added bread SOURDOUGH to their cart.
+Customer 611975911 is checking out.
+Customer 116034314: shoppingCart=[RYE], shopTime=3090, checkoutTime=512
+Customer 1665724812: shoppingCart=[WONDER], shopTime=3088, checkoutTime=512
+Customer 137196967 has started shopping.
+Customer 1838089109 has started shopping.
+Customer 1596757540 has added bread RYE to their cart.
+Customer 820274334 has added bread WONDER to their cart.
+Customer 367811244 has added bread SOURDOUGH to their cart.
+Customer 1697005940: shoppingCart=[RYE], shopTime=3340, checkoutTime=506
+Customer 1809953696 has started shopping.
+Customer 1917030488 has added bread RYE to their cart.
+Customer 1917030488 is checking out.
+Customer 611975911: shoppingCart=[SOURDOUGH], shopTime=3592, checkoutTime=502
+Customer 532695913 has added bread SOURDOUGH to their cart.
+Customer 356378395 has added bread WONDER to their cart.
+Customer 717092888 has started shopping.
+Customer 957557164 has added bread SOURDOUGH to their cart.
+Customer 248912259 has added bread WONDER to their cart.
+Customer 795627795 has added bread RYE to their cart.
+Customer 1917030488: shoppingCart=[RYE], shopTime=3083, checkoutTime=502
+Customer 1987840712 has started shopping.
+Customer 668839245 has added bread RYE to their cart.
+Customer 668839245 is checking out.
+Customer 1278150006 has added bread WONDER to their cart.
+Customer 768719074 has added bread SOURDOUGH to their cart.
+Customer 768719074 is checking out.
+Customer 1007411017 has added bread WONDER to their cart.
+Customer 1571638242 has added bread SOURDOUGH to their cart.
+Customer 1706318363 has added bread RYE to their cart.
+Customer 1706318363 is checking out.
+Customer 668839245: shoppingCart=[WONDER, RYE], shopTime=4595, checkoutTime=501
+Customer 689588166 has started shopping.
+Customer 357296607 has added bread WONDER to their cart.
+Customer 768719074: shoppingCart=[SOURDOUGH], shopTime=4597, checkoutTime=511
+Customer 588661544 has started shopping.
+No WONDER bread left! Restocking...
+Customer 398278489 has added bread RYE to their cart.
+No RYE bread left! Restocking...
+Customer 1841610166 has added bread SOURDOUGH to their cart.
+No SOURDOUGH bread left! Restocking...
+Customer 1706318363: shoppingCart=[RYE, RYE], shopTime=4859, checkoutTime=514
+Customer 1802746077 has started shopping.
+Customer 1288256562 has added bread RYE to their cart.
+Customer 1288256562 is checking out.
+Customer 1197314893 has added bread WONDER to their cart.
+Customer 1489304625 has added bread SOURDOUGH to their cart.
+Customer 923522516 has added bread WONDER to their cart.
+Customer 1766622625 has added bread RYE to their cart.
+Customer 1766622625 is checking out.
+Customer 494321637 has added bread SOURDOUGH to their cart.
+Customer 1454174751 has added bread WONDER to their cart.
+Customer 1838089109 has added bread RYE to their cart.
+Customer 1288256562: shoppingCart=[RYE, RYE], shopTime=6121, checkoutTime=504
+Customer 1108270043 has started shopping.
+Customer 2046526641 has added bread SOURDOUGH to their cart.
+Customer 331984491 has added bread WONDER to their cart.
+Customer 331984491 is checking out.
+Customer 1766622625: shoppingCart=[RYE], shopTime=3547, checkoutTime=501
+Customer 1836260432 has started shopping.
+Customer 820274334 has added bread RYE to their cart.
+Customer 1154028898 has added bread SOURDOUGH to their cart.
+Customer 4967650 has added bread WONDER to their cart.
+Customer 356378395 has added bread RYE to their cart.
+Customer 1557879524 has added bread SOURDOUGH to their cart.
+Customer 1557879524 is checking out.
+Customer 1631169064 has added bread WONDER to their cart.
+Customer 1631169064 is checking out.
+Customer 331984491: shoppingCart=[SOURDOUGH, WONDER], shopTime=6871, checkoutTime=505
+Customer 487477858 has started shopping.
+Customer 248912259 has added bread RYE to their cart.
+Customer 248912259 is checking out.
+Customer 1258930662 has added bread SOURDOUGH to their cart.
+Customer 1258930662 is checking out.
+Customer 1962484795 has added bread WONDER to their cart.
+Customer 1962484795 is checking out.
+Customer 1278150006 has added bread RYE to their cart.
+Customer 1278150006 is checking out.
+Customer 163324578 has added bread SOURDOUGH to their cart.
+Customer 1557879524: shoppingCart=[SOURDOUGH, SOURDOUGH], shopTime=7154, checkoutTime=514
+Customer 1377615631 has started shopping.
+Customer 1631169064: shoppingCart=[WONDER], shopTime=5568, checkoutTime=508
+Customer 1694905047 has started shopping.
+Customer 1910095185 has added bread WONDER to their cart.
+Customer 248912259: shoppingCart=[SOURDOUGH, WONDER, RYE], shopTime=7392, checkoutTime=507
+Customer 1173033 has started shopping.
+Customer 357296607 has added bread RYE to their cart.
+Customer 357296607 is checking out.
+Customer 1258930662: shoppingCart=[WONDER, SOURDOUGH], shopTime=7409, checkoutTime=507
+Customer 1171142391 has started shopping.
+Customer 952488926 has added bread SOURDOUGH to their cart.
+Customer 952488926 is checking out.
+Customer 993711281 has added bread WONDER to their cart.
+Customer 993711281 is checking out.
+Customer 2100765295 has added bread SOURDOUGH to their cart.
+Customer 1962484795: shoppingCart=[WONDER], shopTime=5331, checkoutTime=543
+Customer 588661544 has added bread RYE to their cart.
+Customer 588661544 is checking out.
+Customer 1892068988 has started shopping.
+Customer 1278150006: shoppingCart=[SOURDOUGH, WONDER, RYE], shopTime=7653, checkoutTime=732
+Customer 64354488 has started shopping.
+Customer 1099159550 has added bread WONDER to their cart.
+Customer 357296607: shoppingCart=[RYE, WONDER, RYE], shopTime=7915, checkoutTime=502
+Customer 462161158 has started shopping.
+Customer 1838089109 has added bread RYE to their cart.
+Customer 1515340217 has added bread SOURDOUGH to their cart.
+Customer 952488926: shoppingCart=[RYE, SOURDOUGH], shopTime=7922, checkoutTime=513
+Customer 906115766 has started shopping.
+Customer 945117949 has added bread WONDER to their cart.
+Customer 945117949 is checking out.
+Customer 608781464 has added bread SOURDOUGH to their cart.
+Customer 993711281: shoppingCart=[SOURDOUGH, WONDER], shopTime=8152, checkoutTime=533
+Customer 905788838 has started shopping.
+Customer 1108270043 has added bread RYE to their cart.
+Customer 588661544: shoppingCart=[RYE], shopTime=3074, checkoutTime=720
+Customer 657052562 has started shopping.
+Customer 1596757540 has added bread WONDER to their cart.
+Customer 1596757540 is checking out.
+Customer 2046526641 has added bread RYE to their cart.
+Customer 648350138 has added bread SOURDOUGH to their cart.
+Customer 648350138 is checking out.
+Customer 367811244 has added bread WONDER to their cart.
+Customer 945117949: shoppingCart=[RYE, RYE, WONDER], shopTime=8653, checkoutTime=515
+Customer 915579783 has started shopping.
+Customer 1694905047 has added bread RYE to their cart.
+Customer 154549722 has added bread SOURDOUGH to their cart.
+Customer 1809953696 has added bread WONDER to their cart.
+Customer 1809953696 is checking out.
+Customer 1596757540: shoppingCart=[WONDER, RYE, WONDER], shopTime=8916, checkoutTime=503
+Customer 1374380977 has started shopping.
+Customer 648350138: shoppingCart=[SOURDOUGH, SOURDOUGH], shopTime=8949, checkoutTime=502
+Customer 677573406 has started shopping.
+Customer 875002720 has added bread SOURDOUGH to their cart.
+Customer 1910095185 has added bread RYE to their cart.
+Customer 1910095185 is checking out.
+Customer 795627795 has added bread WONDER to their cart.
+Customer 795627795 is checking out.
+Customer 230849179 has added bread SOURDOUGH to their cart.
+Customer 1892068988 has added bread RYE to their cart.
+Customer 1809953696: shoppingCart=[WONDER], shopTime=5575, checkoutTime=509
+Customer 1876830724 has started shopping.
+Customer 1007411017 has added bread WONDER to their cart.
+Customer 1007411017 is checking out.
+Customer 137196967 has added bread SOURDOUGH to their cart.
+Customer 137196967 is checking out.
+Customer 1910095185: shoppingCart=[SOURDOUGH, WONDER, RYE], shopTime=9453, checkoutTime=506
+Customer 2132696346 has started shopping.
+Customer 462161158 has added bread RYE to their cart.
+Customer 795627795: shoppingCart=[SOURDOUGH, RYE, WONDER], shopTime=9679, checkoutTime=514
+Customer 564898446 has started shopping.
+Customer 689588166 has added bread WONDER to their cart.
+Customer 689588166 is checking out.
+Customer 532695913 has added bread SOURDOUGH to their cart.
+Customer 905788838 has added bread RYE to their cart.
+Customer 905788838 is checking out.
+Customer 1007411017: shoppingCart=[WONDER, WONDER], shopTime=9164, checkoutTime=502
+Customer 981007544 has started shopping.
+Customer 398278489 has added bread WONDER to their cart.
+Customer 398278489 is checking out.
+Customer 137196967: shoppingCart=[SOURDOUGH], shopTime=6359, checkoutTime=503
+Customer 202563706 has started shopping.
+Customer 717092888 has added bread SOURDOUGH to their cart.
+Customer 915579783 has added bread RYE to their cart.
+Customer 915579783 is checking out.
+Customer 689588166: shoppingCart=[WONDER], shopTime=5112, checkoutTime=503
+Customer 757450301 has started shopping.
+Customer 1802746077 has added bread WONDER to their cart.
+Customer 957557164 has added bread SOURDOUGH to their cart.
+Customer 905788838: shoppingCart=[RYE], shopTime=1555, checkoutTime=505
+Customer 834846657 has started shopping.
+Customer 1694905047 has added bread RYE to their cart.
+Customer 1694905047 is checking out.
+Customer 1489304625 has added bread WONDER to their cart.
+Customer 1489304625 is checking out.
+No WONDER bread left! Restocking...
+Customer 398278489: shoppingCart=[SOURDOUGH, RYE, WONDER], shopTime=10462, checkoutTime=504
+Customer 427480030 has started shopping.
+Customer 1987840712 has added bread SOURDOUGH to their cart.
+No SOURDOUGH bread left! Restocking...
+Customer 915579783: shoppingCart=[RYE], shopTime=1325, checkoutTime=503
+Customer 850211213 has started shopping.
+Customer 154549722 has added bread RYE to their cart.
+Customer 154549722 is checking out.
+No RYE bread left! Restocking...
+Customer 1694905047: shoppingCart=[RYE, RYE], shopTime=2862, checkoutTime=513
+Customer 537174035 has started shopping.
+Customer 1489304625: shoppingCart=[SOURDOUGH, WONDER], shopTime=10968, checkoutTime=502
+Customer 1443039577 has started shopping.
+Customer 154549722: shoppingCart=[SOURDOUGH, RYE], shopTime=7662, checkoutTime=502
+Customer 218736676 has started shopping.
+Customer 1454174751 has added bread WONDER to their cart.
+Customer 1454174751 is checking out.
+Customer 1571638242 has added bread SOURDOUGH to their cart.
+Customer 1876830724 has added bread RYE to their cart.
+Customer 1836260432 has added bread WONDER to their cart.
+Customer 1841610166 has added bread SOURDOUGH to their cart.
+Customer 1841610166 is checking out.
+Customer 2132696346 has added bread RYE to their cart.
+Customer 2132696346 is checking out.
+Customer 1454174751: shoppingCart=[SOURDOUGH, WONDER, WONDER], shopTime=11967, checkoutTime=512
+Customer 1483409082 has started shopping.
+Customer 820274334 has added bread WONDER to their cart.
+Customer 820274334 is checking out.
+Customer 1197314893 has added bread SOURDOUGH to their cart.
+Customer 1197314893 is checking out.
+Customer 532695913 has added bread RYE to their cart.
+Customer 532695913 is checking out.
+Customer 1841610166: shoppingCart=[SOURDOUGH, SOURDOUGH], shopTime=12247, checkoutTime=504
+Customer 1154028898 has added bread WONDER to their cart.
+Customer 1154028898 is checking out.
+Customer 1661165182 has started shopping.
+Customer 923522516 has added bread SOURDOUGH to their cart.
+Customer 923522516 is checking out.
+Customer 2132696346: shoppingCart=[RYE], shopTime=2303, checkoutTime=504
+Customer 2065815073 has started shopping.
+Customer 981007544 has added bread RYE to their cart.
+Customer 981007544 is checking out.
+Customer 4967650 has added bread WONDER to their cart.
+Customer 4967650 is checking out.
+Customer 820274334: shoppingCart=[WONDER, RYE, WONDER], shopTime=12496, checkoutTime=507
+Customer 1042521330 has started shopping.
+Customer 494321637 has added bread SOURDOUGH to their cart.
+Customer 494321637 is checking out.
+Customer 1197314893: shoppingCart=[WONDER, SOURDOUGH], shopTime=11495, checkoutTime=508
+Customer 2133532775 has started shopping.
+Customer 202563706 has added bread RYE to their cart.
+Customer 532695913: shoppingCart=[SOURDOUGH, SOURDOUGH, RYE], shopTime=12527, checkoutTime=725
+Customer 285718241 has started shopping.
+Customer 163324578 has added bread WONDER to their cart.
+Customer 163324578 is checking out.
+Customer 1154028898: shoppingCart=[RYE, SOURDOUGH, WONDER], shopTime=12749, checkoutTime=519
+Customer 1242493835 has started shopping.
+Customer 356378395 has added bread SOURDOUGH to their cart.
+Customer 356378395 is checking out.
+Customer 957557164 has added bread RYE to their cart.
+Customer 957557164 is checking out.
+Customer 923522516: shoppingCart=[RYE, WONDER, SOURDOUGH], shopTime=12765, checkoutTime=747
+Customer 969682245 has started shopping.
+Customer 1173033 has added bread WONDER to their cart.
+Customer 1173033 is checking out.
+Customer 981007544: shoppingCart=[RYE], shopTime=2336, checkoutTime=747
+Customer 853682551 has started shopping.
+Customer 487477858 has added bread SOURDOUGH to their cart.
+Customer 487477858 is checking out.
+Customer 427480030 has added bread RYE to their cart.
+Customer 4967650: shoppingCart=[WONDER, WONDER, WONDER], shopTime=13002, checkoutTime=761
+Customer 244069019 has started shopping.
+Customer 2100765295 has added bread WONDER to their cart.
+Customer 2100765295 is checking out.
+Customer 494321637: shoppingCart=[SOURDOUGH, SOURDOUGH, SOURDOUGH], shopTime=13017, checkoutTime=761
+Customer 330388027 has started shopping.
+Customer 1377615631 has added bread SOURDOUGH to their cart.
+Customer 537174035 has added bread RYE to their cart.
+Customer 537174035 is checking out.
+Customer 163324578: shoppingCart=[SOURDOUGH, WONDER], shopTime=11206, checkoutTime=762
+Customer 226735949 has started shopping.
+Customer 1838089109 has added bread WONDER to their cart.
+Customer 356378395: shoppingCart=[WONDER, RYE, SOURDOUGH], shopTime=13283, checkoutTime=762
+Customer 469375948 has started shopping.
+Customer 1838089109 is checking out.
+Customer 1171142391 has added bread SOURDOUGH to their cart.
+Customer 218736676 has added bread RYE to their cart.
+Customer 957557164: shoppingCart=[SOURDOUGH, SOURDOUGH, RYE], shopTime=13298, checkoutTime=980
+Customer 936694014 has started shopping.
+Customer 1173033: shoppingCart=[WONDER], shopTime=5616, checkoutTime=777
+Customer 70152947 has started shopping.
+Customer 1515340217 has added bread WONDER to their cart.
+Customer 1515340217 is checking out.
+Customer 64354488 has added bread SOURDOUGH to their cart.
+Customer 1876830724 has added bread RYE to their cart.
+Customer 1876830724 is checking out.
+Customer 487477858: shoppingCart=[SOURDOUGH], shopTime=6168, checkoutTime=984
+Customer 422692123 has started shopping.
+Customer 2100765295: shoppingCart=[SOURDOUGH, WONDER], shopTime=11220, checkoutTime=766
+Customer 2030610705 has started shopping.
+Customer 608781464 has added bread WONDER to their cart.
+Customer 1099159550 has added bread SOURDOUGH to their cart.
+Customer 1099159550 is checking out.
+Customer 1483409082 has added bread RYE to their cart.
+Customer 537174035: shoppingCart=[RYE], shopTime=2565, checkoutTime=954
+Customer 1034610389 has started shopping.
+Customer 1838089109: shoppingCart=[RYE, RYE, WONDER], shopTime=10444, checkoutTime=749
+Customer 1773181692 has started shopping.
+Customer 1108270043 has added bread WONDER to their cart.
+Customer 1108270043 is checking out.
+Customer 906115766 has added bread SOURDOUGH to their cart.
+Customer 1042521330 has added bread RYE to their cart.
+Customer 1042521330 is checking out.
+Customer 1515340217: shoppingCart=[WONDER, SOURDOUGH, WONDER], shopTime=14309, checkoutTime=733
+Customer 1419093123 has started shopping.
+Customer 1876830724: shoppingCart=[RYE, RYE], shopTime=4426, checkoutTime=703
+Customer 719108507 has started shopping.
+Customer 657052562 has added bread WONDER to their cart.
+Customer 2046526641 has added bread SOURDOUGH to their cart.
+Customer 2046526641 is checking out.
+Customer 2133532775 has added bread RYE to their cart.
+Customer 1099159550: shoppingCart=[WONDER, WONDER, SOURDOUGH], shopTime=14592, checkoutTime=700
+Customer 1329869246 has started shopping.
+Customer 677573406 has added bread WONDER to their cart.
+Customer 1108270043: shoppingCart=[RYE, WONDER], shopTime=8201, checkoutTime=514
+Customer 1177638722 has started shopping.
+Customer 367811244 has added bread SOURDOUGH to their cart.
+Customer 367811244 is checking out.
+Customer 285718241 has added bread RYE to their cart.
+Customer 285718241 is checking out.
+Customer 1042521330: shoppingCart=[RYE], shopTime=1869, checkoutTime=684
+Customer 974917614 has started shopping.
+Customer 875002720 has added bread WONDER to their cart.
+Customer 875002720 is checking out.
+Customer 2046526641: shoppingCart=[SOURDOUGH, RYE, SOURDOUGH], shopTime=14325, checkoutTime=512
+Customer 1374380977 has added bread SOURDOUGH to their cart.
+Customer 1374380977 is checking out.
+Customer 2022636270 has started shopping.
+Customer 853682551 has added bread RYE to their cart.
+Customer 462161158 has added bread WONDER to their cart.
+Customer 230849179 has added bread SOURDOUGH to their cart.
+Customer 230849179 is checking out.
+Customer 367811244: shoppingCart=[SOURDOUGH, WONDER, SOURDOUGH], shopTime=15356, checkoutTime=514
+Customer 455849569 has started shopping.
+Customer 226735949 has added bread RYE to their cart.
+Customer 285718241: shoppingCart=[RYE], shopTime=2135, checkoutTime=514
+Customer 355999769 has started shopping.
+Customer 757450301 has added bread WONDER to their cart.
+Customer 757450301 is checking out.
+Customer 875002720: shoppingCart=[WONDER, SOURDOUGH, WONDER], shopTime=15592, checkoutTime=514
+Customer 987792276 has started shopping.
+Customer 1374380977: shoppingCart=[SOURDOUGH], shopTime=6197, checkoutTime=500
+Customer 1440021844 has started shopping.
+Customer 1892068988 has added bread SOURDOUGH to their cart.
+Customer 936694014 has added bread RYE to their cart.
+Customer 1987840712 has added bread WONDER to their cart.
+Customer 1987840712 is checking out.
+Customer 230849179: shoppingCart=[SOURDOUGH, SOURDOUGH], shopTime=12280, checkoutTime=514
+Customer 564898446 has added bread SOURDOUGH to their cart.
+Customer 167636987 has started shopping.
+Customer 2030610705 has added bread RYE to their cart.
+Customer 850211213 has added bread WONDER to their cart.
+Customer 757450301: shoppingCart=[WONDER], shopTime=5393, checkoutTime=514
+Customer 1747406333 has started shopping.
+Customer 717092888 has added bread SOURDOUGH to their cart.
+Customer 717092888 is checking out.
+Customer 906115766 has added bread RYE to their cart.
+Customer 1571638242 has added bread WONDER to their cart.
+Customer 1571638242 is checking out.
+Customer 1987840712: shoppingCart=[SOURDOUGH, WONDER], shopTime=11772, checkoutTime=503
+Customer 863935075 has started shopping.
+No WONDER bread left! Restocking...
+Customer 1802746077 has added bread SOURDOUGH to their cart.
+Customer 1802746077 is checking out.
+No SOURDOUGH bread left! Restocking...
+Customer 1329869246 has added bread RYE to their cart.
+Customer 1329869246 is checking out.
+No RYE bread left! Restocking...
+Customer 717092888: shoppingCart=[SOURDOUGH, SOURDOUGH], shopTime=12542, checkoutTime=515
+Customer 780298647 has started shopping.
+Customer 1571638242: shoppingCart=[SOURDOUGH, SOURDOUGH, WONDER], shopTime=16871, checkoutTime=502
+Customer 1399500327 has started shopping.
+Customer 1802746077: shoppingCart=[WONDER, SOURDOUGH], shopTime=11512, checkoutTime=512
+Customer 1867264363 has started shopping.
+Customer 1329869246: shoppingCart=[RYE], shopTime=1626, checkoutTime=510
+Customer 1266400398 has started shopping.
+Customer 1661165182 has added bread WONDER to their cart.
+Customer 1661165182 is checking out.
+Customer 834846657 has added bread SOURDOUGH to their cart.
+Customer 834846657 is checking out.
+Customer 2022636270 has added bread RYE to their cart.
+Customer 2022636270 is checking out.
+Customer 2065815073 has added bread WONDER to their cart.
+Customer 1443039577 has added bread SOURDOUGH to their cart.
+Customer 987792276 has added bread RYE to their cart.
+Customer 202563706 has added bread WONDER to their cart.
+Customer 1661165182: shoppingCart=[WONDER], shopTime=5133, checkoutTime=514
+Customer 1732040390 has started shopping.
+Customer 834846657: shoppingCart=[SOURDOUGH], shopTime=7155, checkoutTime=514
+Customer 1958754205 has started shopping.
+Customer 1836260432 has added bread SOURDOUGH to their cart.
+Customer 2022636270: shoppingCart=[RYE], shopTime=2313, checkoutTime=515
+Customer 936694014 has added bread RYE to their cart.
+Customer 1224464477 has started shopping.
+Customer 1242493835 has added bread WONDER to their cart.
+Customer 1242493835 is checking out.
+Customer 427480030 has added bread SOURDOUGH to their cart.
+Customer 850211213 has added bread RYE to their cart.
+Customer 850211213 is checking out.
+Customer 969682245 has added bread WONDER to their cart.
+Customer 969682245 is checking out.
+Customer 330388027 has added bread SOURDOUGH to their cart.
+Customer 330388027 is checking out.
+Customer 1399500327 has added bread RYE to their cart.
+Customer 1242493835: shoppingCart=[WONDER], shopTime=5391, checkoutTime=502
+Customer 1311866386 has started shopping.
+Customer 244069019 has added bread WONDER to their cart.
+Customer 469375948 has added bread SOURDOUGH to their cart.
+Customer 469375948 is checking out.
+Customer 1266400398 has added bread RYE to their cart.
+Customer 1266400398 is checking out.
+Customer 850211213: shoppingCart=[WONDER, RYE], shopTime=7699, checkoutTime=513
+Customer 2008000956 has started shopping.
+Customer 969682245: shoppingCart=[WONDER], shopTime=5400, checkoutTime=513
+Customer 1039384228 has started shopping.
+Customer 1377615631 has added bread WONDER to their cart.
+Customer 1377615631 is checking out.
+Customer 330388027: shoppingCart=[SOURDOUGH], shopTime=5165, checkoutTime=513
+Customer 395236501 has started shopping.
+Customer 2065815073 has added bread RYE to their cart.
+Customer 2065815073 is checking out.
+Customer 218736676 has added bread SOURDOUGH to their cart.
+Customer 1171142391 has added bread WONDER to their cart.
+Customer 1266400398: shoppingCart=[RYE], shopTime=1782, checkoutTime=502
+Customer 469375948: shoppingCart=[SOURDOUGH], shopTime=5165, checkoutTime=502
+Customer 242826117 has started shopping.
+Customer 533040235 has started shopping.
+Customer 1443039577 has added bread RYE to their cart.
+Customer 1443039577 is checking out.
+Customer 70152947 has added bread SOURDOUGH to their cart.
+Customer 70152947 is checking out.
+Customer 1377615631: shoppingCart=[SOURDOUGH, WONDER], shopTime=11772, checkoutTime=501
+Customer 1445147028 has started shopping.
+Customer 64354488 has added bread WONDER to their cart.
+Customer 2065815073: shoppingCart=[WONDER, RYE], shopTime=6694, checkoutTime=512
+Customer 1042503457 has started shopping.
+Customer 1483409082 has added bread SOURDOUGH to their cart.
+Customer 987792276 has added bread RYE to their cart.
+Customer 422692123 has added bread WONDER to their cart.
+Customer 1443039577: shoppingCart=[SOURDOUGH, RYE], shopTime=8257, checkoutTime=500
+Customer 1379702593 has started shopping.
+Customer 70152947: shoppingCart=[SOURDOUGH], shopTime=5432, checkoutTime=513
+Customer 1093463058 has started shopping.
+Customer 1732040390 has added bread RYE to their cart.
+Customer 1773181692 has added bread SOURDOUGH to their cart.
+Customer 1773181692 is checking out.
+Customer 608781464 has added bread WONDER to their cart.
+Customer 608781464 is checking out.
+Customer 1958754205 has added bread RYE to their cart.
+Customer 1419093123 has added bread SOURDOUGH to their cart.
+Customer 1419093123 is checking out.
+Customer 1034610389 has added bread WONDER to their cart.
+Customer 395236501 has added bread RYE to their cart.
+Customer 1773181692: shoppingCart=[SOURDOUGH], shopTime=5447, checkoutTime=513
+Customer 719108507 has added bread SOURDOUGH to their cart.
+Customer 749865390 has started shopping.
+Customer 395236501 is checking out.
+Customer 608781464: shoppingCart=[SOURDOUGH, WONDER, WONDER], shopTime=17679, checkoutTime=501
+Customer 544658633 has started shopping.
+Customer 1177638722 has added bread WONDER to their cart.
+Customer 1177638722 is checking out.
+Customer 218736676 has added bread RYE to their cart.
+Customer 657052562 has added bread SOURDOUGH to their cart.
+Customer 1419093123: shoppingCart=[SOURDOUGH], shopTime=5449, checkoutTime=513
+Customer 218736676 is checking out.
+Customer 1353329353 has started shopping.
+Customer 974917614 has added bread WONDER to their cart.
+Customer 395236501: shoppingCart=[RYE], shopTime=1296, checkoutTime=502
+Customer 1384929280 has started shopping.
+Customer 2133532775 has added bread SOURDOUGH to their cart.
+Customer 242826117 has added bread RYE to their cart.
+Customer 853682551 has added bread WONDER to their cart.
+Customer 218736676: shoppingCart=[RYE, SOURDOUGH, RYE], shopTime=9504, checkoutTime=503
+Customer 1177638722: shoppingCart=[WONDER], shopTime=5652, checkoutTime=516
+Customer 1208694753 has started shopping.
+Customer 53727712 has started shopping.
+Customer 677573406 has added bread SOURDOUGH to their cart.
+Customer 533040235 has added bread RYE to their cart.
+Customer 455849569 has added bread WONDER to their cart.
+Customer 462161158 has added bread SOURDOUGH to their cart.
+Customer 462161158 is checking out.
+Customer 1042503457 has added bread RYE to their cart.
+Customer 226735949 has added bread WONDER to their cart.
+Customer 226735949 is checking out.
+Customer 355999769 has added bread SOURDOUGH to their cart.
+Customer 987792276 has added bread RYE to their cart.
+Customer 987792276 is checking out.
+Customer 1892068988 has added bread WONDER to their cart.
+Customer 1892068988 is checking out.
+Customer 462161158: shoppingCart=[RYE, WONDER, SOURDOUGH], shopTime=13359, checkoutTime=503
+Customer 531858095 has started shopping.
+Customer 1093463058 has added bread RYE to their cart.
+Customer 1440021844 has added bread SOURDOUGH to their cart.
+Customer 226735949: shoppingCart=[RYE, WONDER], shopTime=7987, checkoutTime=514
+Customer 1216424089 has started shopping.
+Customer 1034610389 has added bread RYE to their cart.
+Customer 1034610389 is checking out.
+Customer 987792276: shoppingCart=[RYE, RYE, RYE], shopTime=5926, checkoutTime=514
+Customer 1054806032 has started shopping.
+Customer 564898446 has added bread WONDER to their cart.
+Customer 167636987 has added bread SOURDOUGH to their cart.
+Customer 167636987 is checking out.
+Customer 1892068988: shoppingCart=[RYE, SOURDOUGH, WONDER], shopTime=14099, checkoutTime=515
+Customer 902049280 has started shopping.
+Customer 2030610705 has added bread WONDER to their cart.
+Customer 2030610705 is checking out.
+No WONDER bread left! Restocking...
+No RYE bread left! Restocking...
+Customer 719108507 has added bread RYE to their cart.
+Customer 906115766 has added bread SOURDOUGH to their cart.
+Customer 906115766 is checking out.
+No SOURDOUGH bread left! Restocking...
+Customer 1034610389: shoppingCart=[WONDER, RYE], shopTime=7766, checkoutTime=502
+Customer 300835746 has started shopping.
+Customer 167636987: shoppingCart=[SOURDOUGH], shopTime=6177, checkoutTime=501
+Customer 1291808928 has started shopping.
+Customer 2030610705: shoppingCart=[RYE, WONDER], shopTime=8252, checkoutTime=500
+Customer 1007298644 has started shopping.
+Customer 906115766: shoppingCart=[SOURDOUGH, RYE, SOURDOUGH], shopTime=14377, checkoutTime=514
+Customer 842905774 has started shopping.
+Customer 1747406333 has added bread WONDER to their cart.
+Customer 657052562 has added bread RYE to their cart.
+Customer 657052562 is checking out.
+Customer 1867264363 has added bread SOURDOUGH to their cart.
+Customer 863935075 has added bread WONDER to their cart.
+Customer 863935075 is checking out.
+Customer 1208694753 has added bread RYE to their cart.
+Customer 1208694753 is checking out.
+Customer 1867264363 has added bread SOURDOUGH to their cart.
+Customer 1867264363 is checking out.
+Customer 780298647 has added bread WONDER to their cart.
+Customer 780298647 is checking out.
+Customer 533040235 has added bread RYE to their cart.
+Customer 657052562: shoppingCart=[WONDER, SOURDOUGH, RYE], shopTime=14909, checkoutTime=514
+Customer 1647003923 has started shopping.
+Customer 1224464477 has added bread SOURDOUGH to their cart.
+Customer 1224464477 is checking out.
+Customer 202563706 has added bread WONDER to their cart.
+Customer 202563706 is checking out.
+Customer 863935075: shoppingCart=[WONDER], shopTime=7186, checkoutTime=515
+Customer 1822991381 has started shopping.
+Customer 1042503457 has added bread RYE to their cart.
+Customer 1208694753: shoppingCart=[RYE], shopTime=2565, checkoutTime=514
+Customer 1097443031 has started shopping.
+Customer 427480030 has added bread SOURDOUGH to their cart.
+Customer 427480030 is checking out.
+Customer 1867264363: shoppingCart=[SOURDOUGH, SOURDOUGH], shopTime=6691, checkoutTime=513
+Customer 709800678 has started shopping.
+Customer 1836260432 has added bread WONDER to their cart.
+Customer 1836260432 is checking out.
+Customer 780298647: shoppingCart=[WONDER], shopTime=7158, checkoutTime=526
+Customer 1803612707 has started shopping.
+Customer 355999769 has added bread RYE to their cart.
+Customer 1311866386 has added bread SOURDOUGH to their cart.
+Customer 1224464477: shoppingCart=[SOURDOUGH], shopTime=5895, checkoutTime=744
+Customer 497746062 has started shopping.
+Customer 936694014 has added bread WONDER to their cart.
+Customer 936694014 is checking out.
+Customer 202563706: shoppingCart=[RYE, WONDER, WONDER], shopTime=14109, checkoutTime=528
+Customer 1225818012 has started shopping.
+Customer 427480030: shoppingCart=[RYE, SOURDOUGH, SOURDOUGH], shopTime=13635, checkoutTime=500
+Customer 491082793 has started shopping.
+Customer 244069019 has added bread SOURDOUGH to their cart.
+Customer 244069019 is checking out.
+Customer 1440021844 has added bread RYE to their cart.
+Customer 1836260432: shoppingCart=[WONDER, SOURDOUGH, WONDER], shopTime=17962, checkoutTime=501
+Customer 678530970 has started shopping.
+Customer 1399500327 has added bread WONDER to their cart.
+Customer 1216424089 has added bread RYE to their cart.
+Customer 1216424089 is checking out.
+Customer 1039384228 has added bread SOURDOUGH to their cart.
+Customer 936694014: shoppingCart=[RYE, RYE, WONDER], shopTime=10822, checkoutTime=502
+Customer 871056092 has started shopping.
+Customer 2008000956 has added bread WONDER to their cart.
+Customer 1039384228 has added bread SOURDOUGH to their cart.
+Customer 1054806032 has added bread RYE to their cart.
+Customer 244069019: shoppingCart=[WONDER, SOURDOUGH], shopTime=11351, checkoutTime=507
+Customer 1054806032 is checking out.
+Customer 179546002 has started shopping.
+Customer 1445147028 has added bread WONDER to their cart.
+Customer 564898446 has added bread RYE to their cart.
+Customer 564898446 is checking out.
+Customer 1216424089: shoppingCart=[RYE], shopTime=2836, checkoutTime=508
+Customer 297967488 has started shopping.
+Customer 1171142391 has added bread SOURDOUGH to their cart.
+Customer 1171142391 is checking out.
+Customer 422692123 has added bread WONDER to their cart.
+Customer 422692123 is checking out.
+Customer 1054806032: shoppingCart=[RYE], shopTime=3076, checkoutTime=501
+Customer 2078116271 has started shopping.
+Customer 64354488 has added bread SOURDOUGH to their cart.
+Customer 902049280 has added bread RYE to their cart.
+Customer 64354488 is checking out.
+Customer 1379702593 has added bread WONDER to their cart.
+Customer 564898446: shoppingCart=[SOURDOUGH, WONDER, RYE], shopTime=15679, checkoutTime=501
+Customer 630471267 has started shopping.
+Customer 1007298644 has added bread RYE to their cart.
+Customer 1483409082 has added bread SOURDOUGH to their cart.
+Customer 1483409082 is checking out.
+Customer 1171142391: shoppingCart=[SOURDOUGH, WONDER, SOURDOUGH], shopTime=17957, checkoutTime=507
+Customer 1106356886 has started shopping.
+Customer 974917614 has added bread WONDER to their cart.
+Customer 422692123: shoppingCart=[WONDER, WONDER], shopTime=11579, checkoutTime=507
+Customer 1546868825 has started shopping.
+Customer 1042503457 has added bread RYE to their cart.
+Customer 1042503457 is checking out.
+Customer 1732040390 has added bread SOURDOUGH to their cart.
+Customer 1732040390 is checking out.
+Customer 64354488: shoppingCart=[SOURDOUGH, WONDER, SOURDOUGH], shopTime=17738, checkoutTime=506
+Customer 937777409 has started shopping.
+Customer 1384929280 has added bread WONDER to their cart.
+Customer 1483409082: shoppingCart=[RYE, SOURDOUGH, SOURDOUGH], shopTime=13900, checkoutTime=500
+Customer 1549048175 has started shopping.
+Customer 1958754205 has added bread SOURDOUGH to their cart.
+Customer 1803612707 has added bread RYE to their cart.
+Customer 1803612707 is checking out.
+Customer 853682551 has added bread WONDER to their cart.
+Customer 853682551 is checking out.
+Customer 749865390 has added bread SOURDOUGH to their cart.
+Customer 355999769 has added bread RYE to their cart.
+Customer 355999769 is checking out.
+Customer 1042503457: shoppingCart=[RYE, RYE, RYE], shopTime=6658, checkoutTime=504
+Customer 36460161 has started shopping.
+Customer 1732040390: shoppingCart=[RYE, SOURDOUGH], shopTime=8233, checkoutTime=504
+Customer 574510149 has started shopping.
+Customer 1093463058 has added bread WONDER to their cart.
+Customer 1803612707: shoppingCart=[RYE], shopTime=2047, checkoutTime=505
+Customer 1311866386 has added bread RYE to their cart.
+Customer 521779342 has started shopping.
+Customer 544658633 has added bread SOURDOUGH to their cart.
+Customer 853682551: shoppingCart=[RYE, WONDER, WONDER], shopTime=13589, checkoutTime=506
+Customer 300835746 has added bread WONDER to their cart.
+Customer 300835746 is checking out.
+Customer 2077842365 has started shopping.
+Customer 1353329353 has added bread SOURDOUGH to their cart.
+Customer 1353329353 is checking out.
+Customer 497746062 has added bread RYE to their cart.
+Customer 355999769: shoppingCart=[SOURDOUGH, RYE, RYE], shopTime=11233, checkoutTime=507
+Customer 1346026714 has started shopping.
+Customer 2133532775 has added bread SOURDOUGH to their cart.
+Customer 2133532775 is checking out.
+Customer 1225818012 has added bread RYE to their cart.
+Customer 1291808928 has added bread WONDER to their cart.
+Customer 300835746: shoppingCart=[WONDER], shopTime=4577, checkoutTime=501
+Customer 1168800706 has started shopping.
+Customer 1353329353: shoppingCart=[SOURDOUGH], shopTime=6633, checkoutTime=502
+Customer 363376312 has started shopping.
+Customer 242826117 has added bread SOURDOUGH to their cart.
+Customer 242826117 is checking out.
+Customer 1399500327 has added bread RYE to their cart.
+Customer 1399500327 is checking out.
+Customer 842905774 has added bread WONDER to their cart.
+Customer 2133532775: shoppingCart=[RYE, SOURDOUGH, SOURDOUGH], shopTime=14870, checkoutTime=502
+Customer 739262436 has started shopping.
+Customer 871056092 has added bread RYE to their cart.
+Customer 53727712 has added bread SOURDOUGH to their cart.
+Customer 53727712 is checking out.
+Customer 533040235 has added bread WONDER to their cart.
+Customer 533040235 is checking out.
+Customer 1822991381 has added bread WONDER to their cart.
+Customer 1822991381 is checking out.
+No WONDER bread left! Restocking...
+No RYE bread left! Restocking...
+Customer 1399500327: shoppingCart=[RYE, WONDER, RYE], shopTime=10777, checkoutTime=502
+Customer 1465196690 has started shopping.
+Customer 242826117: shoppingCart=[RYE, SOURDOUGH], shopTime=8438, checkoutTime=502
+Customer 1369055635 has started shopping.
+Customer 179546002 has added bread RYE to their cart.
+Customer 871056092 has added bread SOURDOUGH to their cart.
+No SOURDOUGH bread left! Restocking...
+Customer 53727712: shoppingCart=[SOURDOUGH], shopTime=6894, checkoutTime=504
+Customer 533040235: shoppingCart=[RYE, RYE, WONDER], shopTime=8690, checkoutTime=504
+Customer 111039768 has started shopping.
+Customer 1522995703 has started shopping.
+Customer 1822991381: shoppingCart=[WONDER], shopTime=4080, checkoutTime=501
+Customer 42412168 has started shopping.
+Customer 1445147028 has added bread RYE to their cart.
+Customer 1445147028 is checking out.
+Customer 491082793 has added bread WONDER to their cart.
+Customer 677573406 has added bread SOURDOUGH to their cart.
+Customer 677573406 is checking out.
+Customer 1440021844 has added bread WONDER to their cart.
+Customer 1440021844 is checking out.
+Customer 455849569 has added bread SOURDOUGH to their cart.
+Customer 455849569 is checking out.
+Customer 1549048175 has added bread RYE to their cart.
+Customer 1549048175 is checking out.
+Customer 1445147028: shoppingCart=[WONDER, RYE], shopTime=9710, checkoutTime=501
+Customer 320976180 has started shopping.
+Customer 678530970 has added bread WONDER to their cart.
+Customer 677573406: shoppingCart=[WONDER, SOURDOUGH, SOURDOUGH], shopTime=20210, checkoutTime=503
+Customer 744317642 has started shopping.
+Customer 531858095 has added bread SOURDOUGH to their cart.
+Customer 749865390 has added bread RYE to their cart.
+Customer 749865390 is checking out.
+Customer 455849569: shoppingCart=[WONDER, SOURDOUGH], shopTime=14046, checkoutTime=500
+Customer 521417180 has started shopping.
+Customer 1007298644 has added bread WONDER to their cart.
+Customer 1007298644 is checking out.
+Customer 1440021844: shoppingCart=[SOURDOUGH, RYE, WONDER], shopTime=13787, checkoutTime=513
+Customer 282487178 has started shopping.
+Customer 544658633 has added bread RYE to their cart.
+Customer 719108507 has added bread SOURDOUGH to their cart.
+Customer 719108507 is checking out.
+Customer 1549048175: shoppingCart=[RYE], shopTime=3035, checkoutTime=740
+Customer 425069697 has started shopping.
+Customer 937777409 has added bread WONDER to their cart.
+Customer 1747406333 has added bread SOURDOUGH to their cart.
+Customer 1747406333 is checking out.
+Customer 497746062 has added bread RYE to their cart.
+Customer 749865390: shoppingCart=[SOURDOUGH, RYE], shopTime=9426, checkoutTime=506
+Customer 139610405 has started shopping.
+Customer 1007298644: shoppingCart=[RYE, WONDER], shopTime=7120, checkoutTime=502
+Customer 1234962046 has started shopping.
+Customer 1384929280 has added bread WONDER to their cart.
+Customer 739262436 has added bread RYE to their cart.
+Customer 739262436 is checking out.
+Customer 1647003923 has added bread SOURDOUGH to their cart.
+Customer 719108507: shoppingCart=[SOURDOUGH, RYE, SOURDOUGH], shopTime=15375, checkoutTime=514
+Customer 2108055637 has started shopping.
+Customer 1747406333: shoppingCart=[WONDER, SOURDOUGH], shopTime=14066, checkoutTime=500
+Customer 1958754205 has added bread WONDER to their cart.
+Customer 1958754205 is checking out.
+Customer 1465196690 has added bread RYE to their cart.
+Customer 1097443031 has added bread SOURDOUGH to their cart.
+Customer 1097443031 is checking out.
+Customer 739262436: shoppingCart=[RYE], shopTime=2545, checkoutTime=509
+Customer 179546002 has added bread RYE to their cart.
+Customer 179546002 is checking out.
+Customer 1093463058 has added bread WONDER to their cart.
+Customer 1093463058 is checking out.
+Customer 709800678 has added bread SOURDOUGH to their cart.
+Customer 111039768 has added bread RYE to their cart.
+Customer 1958754205: shoppingCart=[RYE, SOURDOUGH, WONDER], shopTime=12783, checkoutTime=502
+Customer 1311866386 has added bread WONDER to their cart.
+Customer 1311866386 is checking out.
+Customer 1097443031: shoppingCart=[SOURDOUGH], shopTime=6626, checkoutTime=515
+Customer 2008000956 has added bread SOURDOUGH to their cart.
+Customer 179546002: shoppingCart=[RYE, RYE], shopTime=5825, checkoutTime=502
+Customer 320976180 has added bread RYE to their cart.
+Customer 320976180 is checking out.
+Customer 1093463058: shoppingCart=[RYE, WONDER, WONDER], shopTime=11222, checkoutTime=502
+Customer 521779342 has added bread WONDER to their cart.
+Customer 1039384228 has added bread SOURDOUGH to their cart.
+Customer 1039384228 is checking out.
+Customer 1346026714 has added bread WONDER to their cart.
+Customer 1346026714 is checking out.
+Customer 1311866386: shoppingCart=[SOURDOUGH, RYE, WONDER], shopTime=12549, checkoutTime=512
+Customer 678530970 has added bread RYE to their cart.
+Customer 678530970 is checking out.
+Customer 297967488 has added bread SOURDOUGH to their cart.
+Customer 297967488 is checking out.
+Customer 320976180: shoppingCart=[RYE], shopTime=1809, checkoutTime=501
+Customer 1225818012 has added bread WONDER to their cart.
+Customer 282487178 has added bread RYE to their cart.
+Customer 2078116271 has added bread SOURDOUGH to their cart.
+Customer 2078116271 is checking out.
+Customer 1039384228: shoppingCart=[SOURDOUGH, SOURDOUGH, SOURDOUGH], shopTime=12551, checkoutTime=513
+Customer 1346026714: shoppingCart=[WONDER], shopTime=4583, checkoutTime=500
+Customer 937777409 has added bread RYE to their cart.
+Customer 1168800706 has added bread WONDER to their cart.
+Customer 1168800706 is checking out.
+Customer 678530970: shoppingCart=[WONDER, RYE], shopTime=6888, checkoutTime=502
+Customer 902049280 has added bread SOURDOUGH to their cart.
+Customer 497746062 has added bread RYE to their cart.
+Customer 297967488: shoppingCart=[SOURDOUGH], shopTime=6366, checkoutTime=738
+Customer 363376312 has added bread WONDER to their cart.
+Customer 497746062 is checking out.
+Customer 1379702593 has added bread SOURDOUGH to their cart.
+Customer 1379702593 is checking out.
+Customer 2078116271: shoppingCart=[SOURDOUGH], shopTime=6368, checkoutTime=503
+Customer 1168800706: shoppingCart=[WONDER], shopTime=4600, checkoutTime=501
+Customer 842905774 has added bread WONDER to their cart.
+Customer 2108055637 has added bread RYE to their cart.
+Customer 630471267 has added bread SOURDOUGH to their cart.
+Customer 871056092 has added bread WONDER to their cart.
+Customer 871056092 is checking out.
+Customer 497746062: shoppingCart=[RYE, RYE, RYE], shopTime=7893, checkoutTime=504
+Customer 709800678 has added bread RYE to their cart.
+Customer 1379702593: shoppingCart=[WONDER, SOURDOUGH], shopTime=12768, checkoutTime=503
+Customer 1106356886 has added bread SOURDOUGH to their cart.
+Customer 521779342 has added bread RYE to their cart.
+Customer 491082793 has added bread WONDER to their cart.
+Customer 491082793 is checking out.
+Customer 974917614 has added bread SOURDOUGH to their cart.
+Customer 974917614 is checking out.
+Customer 871056092: shoppingCart=[RYE, SOURDOUGH, WONDER], shopTime=7880, checkoutTime=501
+Customer 744317642 has added bread WONDER to their cart.
+Customer 744317642 is checking out.
+Customer 282487178 has added bread RYE to their cart.
+Customer 1546868825 has added bread SOURDOUGH to their cart.
+Customer 531858095 has added bread WONDER to their cart.
+Customer 491082793: shoppingCart=[WONDER, WONDER], shopTime=8632, checkoutTime=502
+Customer 2108055637 has added bread RYE to their cart.
+Customer 2108055637 is checking out.
+Customer 974917614: shoppingCart=[WONDER, WONDER, SOURDOUGH], shopTime=18194, checkoutTime=501
+Customer 36460161 has added bread SOURDOUGH to their cart.
+Customer 744317642: shoppingCart=[WONDER], shopTime=3820, checkoutTime=501
+Customer 521417180 has added bread WONDER to their cart.
+Customer 521417180 is checking out.
+No WONDER bread left! Restocking...
+Customer 1106356886 has added bread RYE to their cart.
+Customer 1106356886 is checking out.
+No RYE bread left! Restocking...
+Customer 574510149 has added bread SOURDOUGH to their cart.
+No SOURDOUGH bread left! Restocking...
+Customer 2108055637: shoppingCart=[RYE, RYE], shopTime=3289, checkoutTime=509
+Customer 521417180: shoppingCart=[WONDER], shopTime=4073, checkoutTime=505
+Customer 1106356886: shoppingCart=[SOURDOUGH, RYE], shopTime=8119, checkoutTime=500
+Customer 282487178 has added bread RYE to their cart.
+Customer 282487178 is checking out.
+Customer 544658633 has added bread WONDER to their cart.
+Customer 544658633 is checking out.
+Customer 2077842365 has added bread SOURDOUGH to their cart.
+Customer 1546868825 has added bread RYE to their cart.
+Customer 1546868825 is checking out.
+Customer 425069697 has added bread WONDER to their cart.
+Customer 1291808928 has added bread SOURDOUGH to their cart.
+Customer 282487178: shoppingCart=[RYE, RYE, RYE], shopTime=5086, checkoutTime=513
+Customer 544658633: shoppingCart=[SOURDOUGH, RYE, WONDER], shopTime=14515, checkoutTime=513
+Customer 139610405 has added bread WONDER to their cart.
+Customer 139610405 is checking out.
+Customer 531858095 has added bread RYE to their cart.
+Customer 531858095 is checking out.
+Customer 1369055635 has added bread SOURDOUGH to their cart.
+Customer 1546868825: shoppingCart=[SOURDOUGH, RYE], shopTime=9152, checkoutTime=501
+Customer 1234962046 has added bread WONDER to their cart.
+Customer 36460161 has added bread RYE to their cart.
+Customer 36460161 is checking out.
+Customer 1522995703 has added bread SOURDOUGH to their cart.
+Customer 2077842365 has added bread RYE to their cart.
+Customer 531858095: shoppingCart=[SOURDOUGH, WONDER, RYE], shopTime=13752, checkoutTime=503
+Customer 139610405: shoppingCart=[WONDER], shopTime=5347, checkoutTime=503
+Customer 1384929280 has added bread WONDER to their cart.
+Customer 1384929280 is checking out.
+Customer 42412168 has added bread SOURDOUGH to their cart.
+Customer 42412168 is checking out.
+Customer 1647003923 has added bread WONDER to their cart.
+Customer 36460161: shoppingCart=[SOURDOUGH, RYE], shopTime=9149, checkoutTime=515
+Customer 1465196690 has added bread SOURDOUGH to their cart.
+Customer 1465196690 is checking out.
+Customer 111039768 has added bread WONDER to their cart.
+Customer 111039768 is checking out.
+Customer 1384929280: shoppingCart=[WONDER, WONDER, WONDER], shopTime=15293, checkoutTime=515
+Customer 42412168: shoppingCart=[SOURDOUGH], shopTime=7412, checkoutTime=515
+Customer 2008000956 has added bread SOURDOUGH to their cart.
+Customer 2008000956 is checking out.
+Customer 902049280 has added bread WONDER to their cart.
+Customer 902049280 is checking out.
+Customer 1465196690: shoppingCart=[RYE, SOURDOUGH], shopTime=8178, checkoutTime=513
+Customer 1225818012 has added bread SOURDOUGH to their cart.
+Customer 1225818012 is checking out.
+Customer 842905774 has added bread WONDER to their cart.
+Customer 842905774 is checking out.
+Customer 111039768: shoppingCart=[RYE, WONDER], shopTime=8158, checkoutTime=515
+Customer 2008000956: shoppingCart=[WONDER, SOURDOUGH, SOURDOUGH], shopTime=17884, checkoutTime=501
+Customer 937777409 has added bread SOURDOUGH to their cart.
+Customer 937777409 is checking out.
+Customer 902049280: shoppingCart=[RYE, SOURDOUGH, WONDER], shopTime=14532, checkoutTime=501
+Customer 630471267 has added bread WONDER to their cart.
+Customer 630471267 is checking out.
+Customer 363376312 has added bread SOURDOUGH to their cart.
+Customer 363376312 is checking out.
+Customer 1225818012: shoppingCart=[RYE, WONDER, SOURDOUGH], shopTime=12259, checkoutTime=516
+Customer 842905774: shoppingCart=[WONDER, WONDER, WONDER], shopTime=14253, checkoutTime=502
+Customer 709800678 has added bread WONDER to their cart.
+Customer 709800678 is checking out.
+Customer 937777409: shoppingCart=[WONDER, RYE, SOURDOUGH], shopTime=10980, checkoutTime=514
+Customer 521779342 has added bread SOURDOUGH to their cart.
+Customer 521779342 is checking out.
+Customer 630471267: shoppingCart=[SOURDOUGH, WONDER], shopTime=11457, checkoutTime=508
+Customer 574510149 has added bread WONDER to their cart.
+Customer 363376312: shoppingCart=[WONDER, SOURDOUGH], shopTime=9735, checkoutTime=501
+Customer 1369055635 has added bread SOURDOUGH to their cart.
+Customer 1369055635 is checking out.
+Customer 574510149 has added bread RYE to their cart.
+Customer 709800678: shoppingCart=[SOURDOUGH, RYE, WONDER], shopTime=13492, checkoutTime=515
+Customer 425069697 has added bread WONDER to their cart.
+Customer 574510149 is checking out.
+Customer 521779342: shoppingCart=[WONDER, RYE, SOURDOUGH], shopTime=10741, checkoutTime=512
+Customer 1647003923 has added bread SOURDOUGH to their cart.
+Customer 1647003923 is checking out.
+Customer 1291808928 has added bread WONDER to their cart.
+Customer 1291808928 is checking out.
+Customer 1369055635: shoppingCart=[SOURDOUGH, SOURDOUGH], shopTime=9735, checkoutTime=503
+Customer 574510149: shoppingCart=[SOURDOUGH, WONDER, RYE], shopTime=11474, checkoutTime=503
+Customer 1234962046 has added bread WONDER to their cart.
+Customer 1647003923: shoppingCart=[SOURDOUGH, WONDER, SOURDOUGH], shopTime=14315, checkoutTime=514
+Customer 1291808928: shoppingCart=[WONDER, SOURDOUGH, WONDER], shopTime=15797, checkoutTime=509
+Customer 1522995703 has added bread WONDER to their cart.
+Customer 2077842365 has added bread WONDER to their cart.
+Customer 2077842365 is checking out.
+Customer 1522995703 has added bread RYE to their cart.
+Customer 1522995703 is checking out.
+Customer 425069697 has added bread WONDER to their cart.
+Customer 425069697 is checking out.
+Customer 2077842365: shoppingCart=[SOURDOUGH, RYE, WONDER], shopTime=12009, checkoutTime=501
+Customer 1234962046 has added bread WONDER to their cart.
+Customer 1234962046 is checking out.
+Customer 1522995703: shoppingCart=[SOURDOUGH, WONDER, RYE], shopTime=10730, checkoutTime=502
+Customer 425069697: shoppingCart=[WONDER, WONDER, WONDER], shopTime=9230, checkoutTime=512
+Customer 1234962046: shoppingCart=[WONDER, WONDER, WONDER], shopTime=9216, checkoutTime=501
+Total sales: 2003.01
